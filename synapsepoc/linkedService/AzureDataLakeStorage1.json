@@ -1,0 +1,14 @@
+{
+	"name": "AzureDataLakeStorage1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://privatestoraccku.dfs.core.windows.net"
+		},
+		"connectVia": {
+			"referenceName": "SHIR-IntegrationRuntime1",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
