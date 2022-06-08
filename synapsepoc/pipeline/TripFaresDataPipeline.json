@@ -457,7 +457,7 @@
 			},
 			"SynapseWorkspaceName": {
 				"type": "string",
-				"defaultValue": "edpe4ghxqjomn7mupocws1"
+				"defaultValue": "edpe4ghxqjomn7mupocws1.database.windows.net"
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
