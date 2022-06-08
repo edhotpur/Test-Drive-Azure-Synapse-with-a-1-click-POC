@@ -99,6 +99,9 @@
 				]
 			}
 		},
+		"folder": {
+			"name": "SqlDbCopyPipeline"
+		},
 		"annotations": []
 	}
 }
