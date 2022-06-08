@@ -18,10 +18,6 @@
 				"typeProperties": {
 					"source": {
 						"type": "DelimitedTextSource",
-						"storeSettings": {
-							"type": "HttpReadSettings",
-							"requestMethod": "GET"
-						},
 						"formatSettings": {
 							"type": "DelimitedTextReadSettings"
 						}
@@ -297,10 +293,6 @@
 				"typeProperties": {
 					"source": {
 						"type": "DelimitedTextSource",
-						"storeSettings": {
-							"type": "HttpReadSettings",
-							"requestMethod": "GET"
-						},
 						"formatSettings": {
 							"type": "DelimitedTextReadSettings"
 						}
@@ -465,7 +457,7 @@
 			},
 			"SynapseWorkspaceName": {
 				"type": "string",
-				"defaultValue": " edpe4ghxqjomn7mupocws1"
+				"defaultValue": "edpe4ghxqjomn7mupocws1"
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
